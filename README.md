@@ -6,4 +6,4 @@ HHHello
 ![pic2](https://cn.bing.com/th?id=OHR.HuggingKanga_ZH-CN1045131695_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&qlt=50  "bb"){:height="50%" width="50%"}
 ![pic2](https://cn.bing.com/th?id=OHR.BarnOwlWinter_ZH-CN5484796826_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&qlt=50  "bb"){:height="50%" width="50%"}
 ![pic2](https://s.cn.bing.net/th?id=OHR.WorldOtterDay_ZH-CN8607141093_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&qlt=50  "bb"){:height="50%" width="50%"}
-
+![pic2](https://s.cn.bing.net/th?id=OHR.CameraSquirrel_ZH-CN3580119980_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&qlt=50  "bb"){:height="50%" width="50%"}
